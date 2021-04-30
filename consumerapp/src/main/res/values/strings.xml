@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Consumer App</string>
+    <string name="no_data">No Data</string>
+    <string name="message">Data Tidak Ditemukan</string>
+    <string name="favorite">Favorite</string>
+    <string name="username_github_user">Username Github User</string>
+    <string name="id_user">ID User</string>
+</resources>
